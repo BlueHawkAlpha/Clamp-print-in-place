@@ -53,6 +53,4 @@ Changes: Modified description
 
  ![alt text](https://media.printables.com/media/prints/974751/images/7450835_553b1a2f-657c-4b0c-b5a8-71f5567d12fe_89979089-a570-44c8-b9b7-014dff4829c1/inshot_20240816_223819936.gif)
  spacing
- ![alt text](https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/2025-01-17_4d8d077f37dd4.gif?x-oss-process=image/resize,w_1000/format,webp)
-spacing
 
