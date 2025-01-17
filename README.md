@@ -1,7 +1,7 @@
 Description
 This versatile DIY tool is a must-have for makers and tinkerers alike. Designed to securely hold objects, it eliminates the need for traditional springs. Its innovative design allows for seamless 3D printing, coming straight out of the printer (well, almost – just snap the colored tips into place, and you're good to go! Easy, right?).
 
- <https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/16bd3c3c-cab6-428e-9e7e-d87eb9520113.gif?x-oss-process=image/format,webp>
+ https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/16bd3c3c-cab6-428e-9e7e-d87eb9520113.gif?x-oss-process=image/format,webp
 
  
 
