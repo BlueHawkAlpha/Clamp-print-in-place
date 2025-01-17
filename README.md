@@ -1,7 +1,7 @@
 ![alt text](https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/2025-01-17_12ae7b2b4c145.webp?x-oss-process=image/resize,w_1000/format,webp)
 
 
-![alt text](https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/2025-01-17_798cb91731fe7.webp?x-oss-process=image/resize,w_400/format,webp)
+![alt text](https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/2025-01-17_4d8d077f37dd4.gif?x-oss-process=image/resize,w_1000/format,webp)
 
 
 ![alt text](https://makerworld.bblmw.com/makerworld/model/DSM00000001002584/design/2025-01-17_798cb91731fe7.webp?x-oss-process=image/resize,w_400/format,webp)
